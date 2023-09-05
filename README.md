@@ -5,6 +5,6 @@ Data analysis projects using python and data vidualization labraries such as Plo
 2. Extracted insights from data on trip data of a bike share service
 
 ### Data Analysis Steps:
-**Ask, Prepare, Process, Visualize, Share, Act**
+**Ask, Prepare, Process, Analyze, Visualize, Share, Act**
 
-I mainly focused on Process and Visualize steps.
+I mainly focused on Process, Analyze and Visualize steps.
