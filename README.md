@@ -8,5 +8,3 @@ Data analysis projects using python and data vidualization labraries such as Plo
 
 ### Data Analysis Steps:
 **Ask, Prepare, Process, Analyze, Visualize, Share, Act**
-
-I mainly focused on Process, Analyze and Visualize steps.
